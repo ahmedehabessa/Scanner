@@ -1,0 +1,7 @@
+﻿  Source.cpp
+Source.cpp(40): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 180 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Scanner assignment.vcxproj -> C:\Users\hmed\documents\visual studio 2015\Projects\Scanner assignment\Release\Scanner assignment.exe
+  Scanner assignment.vcxproj -> C:\Users\hmed\documents\visual studio 2015\Projects\Scanner assignment\Release\Scanner assignment.pdb (Full PDB)

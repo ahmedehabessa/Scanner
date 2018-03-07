@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\hmed\documents\visual studio 2015\projects\scanner assignment\scanner assignment\source.cpp(40): warning C4018: '<': signed/unsigned mismatch
+  Scanner assignment.vcxproj -> C:\Users\hmed\documents\visual studio 2015\Projects\Scanner assignment\Debug\Scanner assignment.exe
+  Scanner assignment.vcxproj -> C:\Users\hmed\documents\visual studio 2015\Projects\Scanner assignment\Debug\Scanner assignment.pdb (Full PDB)

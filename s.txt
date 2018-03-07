@@ -1,0 +1,22 @@
+﻿'Scanner assignment.exe' (Win32): Loaded 'C:\Users\hmed\Documents\Visual Studio 2015\Projects\Scanner assignment\Debug\Scanner assignment.exe'. Symbols loaded.
+'Scanner assignment.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Symbols loaded.
+'Scanner assignment.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Symbols loaded.
+'Scanner assignment.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\kernel32.dll'
+'Scanner assignment.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Symbols loaded.
+'Scanner assignment.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Symbols loaded.
+'Scanner assignment.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Symbols loaded.
+'Scanner assignment.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Symbols loaded.
+'Scanner assignment.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Symbols loaded.
+'Scanner assignment.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Symbols loaded.
+'Scanner assignment.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ucrtbased.dll'
+'Scanner assignment.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Symbols loaded.
+'Scanner assignment.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Symbols loaded.
+'Scanner assignment.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Symbols loaded.
+'Scanner assignment.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Symbols loaded.
+'Scanner assignment.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Symbols loaded.
+'Scanner assignment.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Symbols loaded.
+'Scanner assignment.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Symbols loaded.
+The thread 0x2828 has exited with code 0 (0x0).
+The thread 0x2658 has exited with code 0 (0x0).
+The thread 0x1b78 has exited with code 0 (0x0).
+The program '[9892] Scanner assignment.exe' has exited with code 0 (0x0).
